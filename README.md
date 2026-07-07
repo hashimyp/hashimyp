@@ -41,14 +41,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst+%7C+Detection+Engineering;First-year+BSc+IT+Student%2C+Maharashtra;Building+toward+Incident+Response;One+log%2C+one+writeup%2C+one+cert+at+a+time)](https://git.io/typing-svg)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimyp&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimyp&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hashimyp&theme=default&hide_border=true" width="50%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hashimyp)](https://git.io/streak-stats)
 
 ---
 
