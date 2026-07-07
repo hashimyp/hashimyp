@@ -47,6 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimyp&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ### 📫 Let's Connect
