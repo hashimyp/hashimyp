@@ -50,7 +50,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.fiverr.com/hasheem_parbulk"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-  <a href="mailto:hashimyp89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hashimyp89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 </p>
 
 <p align="center"><i>⭐ Building toward detection engineering, one log at a time.</i></p>
